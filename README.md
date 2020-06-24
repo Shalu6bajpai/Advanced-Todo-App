@@ -1,7 +1,7 @@
-ToDo APP
+#**ToDo APP**
 ToDo App bulilt in NodeJS
 
-OverView
+#**OverView**
 This small project help me understanding the working structure of a full scalable porject, and understanding the folder structure of the big projects.
 
 What I learnt
