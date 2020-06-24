@@ -1,22 +1,28 @@
-#**ToDo APP**
+# ToDo APP
+
 ToDo App bulilt in NodeJS
 
-#**OverView**
+### OverView
+
 This small project help me understanding the working structure of a full scalable porject, and understanding the folder structure of the big projects.
 
-What I learnt
-Creating server
-Handling server Requests
-Managing Routes
-Declaring Actions
-Database Queries
-Working of HTML engines
-NPM packages
-express
-mongoose
-ejs
-express-ejs-layouts
-Folder Structure
+### What I learnt
+
+- Creating server
+- Handling server Requests
+- Managing Routes
+- Declaring Actions
+- Database Queries
+- Working of HTML engines
+
+### NPM packages
+- express
+- mongoose
+- ejs
+- express-ejs-layouts
+
+### Folder Structure
+```
     |__ProjectDir
         |__assets
         |   |__css
@@ -47,5 +53,8 @@ Folder Structure
         |__ package.json
         |__ ReadMe.md
 
-Run Project
+```
+### Run Project
+```
     npm start
+```
