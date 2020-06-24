@@ -1,6 +1,6 @@
 # ToDo APP
 
-ToDo App bulilt in NodeJS
+ToDo App bulilt in NodeJS and Express
 
 ### OverView
 
@@ -26,27 +26,18 @@ This small project help me understanding the working structure of a full scalabl
     |__ProjectDir
         |__assets
         |   |__css
-        |   |    |__ style.css
-        |   |__js
-        |       |__ cript.js
+        |      |__ style.css
         |__config
         |   |__ mongooese.js
         |__controllers
-        |   |__ addToDoController.js
-        |   |__ deleteToDOController.js
         |   |__ homeController.js
-        |   |__ todoController.js
+        |    
         |__models
-        |   |__ todoModel.js
+        |   |__ model.js
         |__routes
-        |   |__ index.ejs
-        |   |__ todos.js
+        |   |__ route.ejs
         |__views
-        |   |__ _footer.ejs
-        |   |__ _header.ejs
-        |   |__ home.ejs
-        |   |__ layout.ejs
-        |   |__ todos.ejs
+        |   |__home.ejs  
         |__ .gitignore
         |__ index.js
         |__ package-lock.json
