@@ -16,7 +16,7 @@ const model = mongoose.model('TODO', todoSchema);
 
 const dB = {};
 dB.connect = () => {
-    mongoose.connect('mongodb://localhost/todo'
+    mongoose.connect('mongodb+srv://admin:vGp0Vz46OY4kNRAo@cluster0.yy4ck.mongodb.net/TodoAPP?retryWrites=true&w=majority'
         , {
             useNewUrlParser: true,
             useUnifiedTopology: true 
